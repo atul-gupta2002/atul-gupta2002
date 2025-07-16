@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/0d/2b/b8/0d2bb86a6457bf260a3cf8a4f6b11179.jpg" alt="cover" width="1000" height="400">
+  <img src="https://webliquids.com/wp-content/uploads/2025/03/360_F_871603234_fTMmjlUOpt4F9mDudj8wjyzkt0khEtSZ-1.jpg" alt="cover" width="1000" height="300">
 </p>
 <h1 align="center">Hi 👋, I'm Atul Gupta</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **[Project Name](project-link)**  
 - 🌱 I’m currently learning **MERN Stack / DevOps / ML**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: atul82008@gmail.com
 
 ---
 
