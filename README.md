@@ -1,3 +1,4 @@
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRkj3HCN6bsiPfp1TbnZAAOx7rsIwHOih4IyPhwUiHUk93n9Yq" alt="banner" width="100%" />
 <h1 align="center">Hi 👋, I'm Atul Gupta</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
