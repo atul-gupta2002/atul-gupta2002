@@ -29,6 +29,11 @@
 ---
 ### 📫 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/atul-gupta-815b8a249/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
-  <a href="mailto:atul82008@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" alt="gmail" height="20" width="20" /></a>
-</p>## Hi there 👋
+  <a href="https://www.linkedin.com/in/atul-gupta-815b8a249/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+  </a>
+  <a href="mailto:atul82008@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+  </a>
+</p>
+
