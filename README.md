@@ -1,4 +1,6 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRkj3HCN6bsiPfp1TbnZAAOx7rsIwHOih4IyPhwUiHUk93n9Yq" alt="banner" width="100%" />
+<p align="center">
+  <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQofnx0otdl7ql0ln0rcuVZWBl0Foq27raqriD51iAbcN7kOpiT" alt="cover" width="1000" height="300">
+</p>
 <h1 align="center">Hi 👋, I'm Atul Gupta</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
