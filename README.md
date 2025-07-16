@@ -27,15 +27,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atul-gupta2002&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atul-gupta2002&theme=radical" alt="streak" />
-</p>
-
----
-
 ### 📫 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/atul-gupta-815b8a249/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
