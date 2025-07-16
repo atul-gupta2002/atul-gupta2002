@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQofnx0otdl7ql0ln0rcuVZWBl0Foq27raqriD51iAbcN7kOpiT" alt="cover" width="1000" height="300">
+  <img src="https://i.pinimg.com/1200x/0d/2b/b8/0d2bb86a6457bf260a3cf8a4f6b11179.jpg" alt="cover" width="1000" height="400">
 </p>
 <h1 align="center">Hi 👋, I'm Atul Gupta</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
