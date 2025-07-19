@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Atul Gupta</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-<p align="right">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=atul-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="atul-gupta" />
 </p>
 
@@ -22,7 +22,7 @@
 - 📫 How to reach me: atul82008@gmail.com
 
 </td>
-<td>
+<td align="right">
 
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"/>
 
