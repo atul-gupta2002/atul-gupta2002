@@ -43,7 +43,7 @@
 
 ### 📫 Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/atul-gupta-815b8a249" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
   </a>
