@@ -4,6 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Atul Gupta</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h3 align="center">Crafting seamless web experiences with clean code, responsive design, and scalable backend systems.</h3>
+<h3 align="center">I enjoy building modern websites and applications using the latest technologies like React, Node.js, and MongoDB, always focusing on performance, user experience, and maintainable code.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atul-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="atul-gupta" />
@@ -42,11 +44,4 @@
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/atul-gupta-815b8a249/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:atul82008@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="30" height="30"/>
-  </a>
-</p>
+  <a
