@@ -43,5 +43,12 @@
 
 ### 📫 Connect with me
 
-<p align="left">
-  <a
+<p align="center">
+  <a href="https://www.linkedin.com/in/atul-gupta-815b8a249" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:atul82008@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="40" height="40">
+  </a>
+</p>
