@@ -11,8 +11,8 @@
 ---
 
 ### 💻 About Me
-- 🔭 I’m currently working on **[Project Name](project-link)**  
-- 🌱 I’m currently learning **MERN Stack / DevOps / ML**  
+- 🔭 I’m currently working on **[Hotel-Booking](https://github.com/atul-gupta2002/Hotel-Booking/tree/hotelBooking)**  
+- 🌱 I’m currently learning ** MERN Stack **  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
 - 📫 How to reach me: atul82008@gmail.com
 
