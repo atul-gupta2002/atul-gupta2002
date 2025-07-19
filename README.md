@@ -5,23 +5,30 @@
 <h1 align="center">Hi 👋, I'm Atul Gupta</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-<!-- GIF aligned to right -->
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="GIF" width="250"/>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atul-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="atul-gupta" />
 </p>
 
 ---
 
+<table>
+<tr>
+<td>
+
 ### 💻 About Me
 - 🔭 I’m currently working on **[Hotel-Booking](https://github.com/atul-gupta2002/Hotel-Booking/tree/hotelBooking)**  
 - 🌱 I’m currently learning ** MERN Stack **  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
 - 📫 How to reach me: atul82008@gmail.com
-  
+
+</td>
+<td>
+
+<img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
