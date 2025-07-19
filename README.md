@@ -11,24 +11,15 @@
 
 ---
 
-<table>
-<tr>
-<td>
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+</p>
 
 ### 💻 About Me
 - 🔭 I’m currently working on **[Hotel-Booking](https://github.com/atul-gupta2002/Hotel-Booking/tree/hotelBooking)**  
 - 🌱 I’m currently learning ** MERN Stack **  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
 - 📫 How to reach me: atul82008@gmail.com
-
-</td>
-<td align="right">
-
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -37,3 +28,19 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/atul-gupta-815b8a249/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:atul82008@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="30" height="30"/>
+  </a>
+</p>
