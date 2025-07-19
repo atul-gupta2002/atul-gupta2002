@@ -43,13 +43,14 @@
 
 ### 📫 Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/atul-gupta-815b8a249" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:atul82008@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" />
+  <a href="atul82008@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_icon_%282020%29.svg" alt="Gmail" width="35" height="35"/>
   </a>
 </p>
+
 
