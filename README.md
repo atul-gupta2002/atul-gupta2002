@@ -11,23 +11,21 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<p>
+  <span style="float: left; width: 65%;">
 
-<div style="flex: 1;">
-
-### 💻 About Me
+### 💻 About Me  
 - 🔭 I’m currently working on **[Hotel-Booking](https://github.com/atul-gupta2002/Hotel-Booking/tree/hotelBooking)**  
 - 🌱 I’m currently learning ** MERN Stack **  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
-- 📫 How to reach me: atul82008@gmail.com
+- 📫 How to reach me: atul82008@gmail.com  
 
-</div>
+  </span>
 
-<p style="flex: 1;" align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+  <span style="float: right;">
+    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250">
+  </span>
 </p>
-
-</div>
 
 ---
 
